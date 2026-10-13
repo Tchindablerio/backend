@@ -1,0 +1,19 @@
+{
+  "name": "livraison-express-backend",
+  "version": "1.0.0",
+  "description": "Backend complet pour l'application de livraison",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.24.4",
+    "uuid": "^9.0.1"
+  }
+}
